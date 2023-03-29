@@ -1,0 +1,22 @@
+header{
+  min-width: 100%;
+  position: fixed;
+}
+header > h1 {
+  background-color: pink;  
+  text-align: center;
+  color: black;
+}
+.menu{
+  margin-left: 15px;
+  background-color: pink;
+  top: 10%;
+  max-width: 12%;
+  min-width: 12%;
+  max-height: 88%;
+  min-height: 88%;
+  float: left;
+  position: fixed;
+  color: black;
+  text-align: center;
+}
